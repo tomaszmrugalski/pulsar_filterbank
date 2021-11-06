@@ -1316,7 +1316,7 @@ blocks:
     label: Detector scaling
     short_id: ''
     type: intx
-    value: '0'
+    value: '1'
   states:
     bus_sink: false
     bus_source: false
@@ -2867,7 +2867,7 @@ blocks:
     label: Enable 16-bit output
     short_id: ''
     type: intx
-    value: '1'
+    value: '0'
   states:
     bus_sink: false
     bus_source: false
